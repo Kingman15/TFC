@@ -1,19 +1,15 @@
 # TFC
-Ce dépôt Github contient les éléments ayant constitués mon travail de fin de cycle. 
+This Github repository contains the elements that made up my end-of-cycle work. 
 
-Vous y trouver :
+You'll find :
 
-- Le fichier PDF du travail
-- Le modèle physique de données 
-- La base de données bien remplie 
+- The PDF file of the work
+- The physical data model 
+- The completed database 
 
-Vous pouvez retrouver l'application à ces adresses :
+You can find the application at the following addresses:
 
--  https://drive.google.com/file/d/1QbbWC2zYoWcEqOfC9JnQ-HzrmlDAm5i8/view?usp
+- https://drive.google.com/file/d/1QbbWC2zYoWcEqOfC9JnQ-HzrmlDAm5i8/view?usp
 - https://1drv.ms/u/s!AmgywNLPL33temwLAjBHbBNYkA8?e=kXft0D
 
-Merci.
-
-
-
-
+Thank you for your interest.
